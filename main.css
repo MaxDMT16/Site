@@ -1,0 +1,23 @@
+h1{
+    font-size: 2em;
+    font-family: arial,helvetica;
+    color: rgb(108, 110, 136);
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+
+.big-text{
+    font-size: 1.1em;
+    color: rgb(161, 145, 145);
+}
+
+#section1{
+    background-image: url("images/wood.jpeg");
+    background-size: cover;
+}
+
+.table{
+    margin: 0 auto;
+    border-spacing: 20px;
+}
